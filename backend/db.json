@@ -1,10 +1,39 @@
 {
   "pensamentos": [
     {
-      "id": "0ca2",
-      "conteudo": "Teste",
+      "id": 1,
+      "conteudo": "We are the champions my friends!!!",
+      "autoria": "Queen",
+      "modelo": "modelo1",
+      "favorito": false
+    },
+    {
+      "id": 2,
+      "conteudo": "Na minha máquina funciona!",
+      "autoria": "Dev da madrugada",
+      "modelo": "modelo2",
+      "favorito": true
+    },
+    {
+      "id": 3,
+      "conteudo": "Continue a codar... continue a codar...",
+      "autoria": "Dory programadora",
+      "modelo": "modelo3",
+      "favorito": false
+    },
+    {
+      "conteudo": "Testando função de editar",
+      "autoria": "Angular ",
+      "modelo": "modelo2",
+      "favorito": true,
+      "id": 4
+    },
+    {
+      "conteudo": "Agora deu certo, após reinstalação do Json-server",
       "autoria": "Bruno",
-      "modelo": "modelo3"
+      "modelo": "modelo2",
+      "favorito": true,
+      "id": 5
     }
   ]
 }
